@@ -20,7 +20,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: **dlorenzobanks@gmail.com** 
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/donovan-banks-a41544319/) *(add real link)*  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/donovan-banks-a41544319/)
 
 ---
 
