@@ -1,6 +1,6 @@
 <!-- NCCU Banner -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/North_Carolina_Central_Eagles_logo.svg/2560px-North_Carolina_Central_Eagles_logo.svg.png" alt="NCCU Logo" width="400"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/6/66/North_Carolina_Central_Eagles_logo.svg/2560px-North_Carolina_Central_Eagles_logo.svg.png](https://www.early-childhood-education-degrees.com/wp-content/uploads/2018/01/NorthCarolinaCentralUniversitylogo_778-300x160.png)" alt="NCCU Logo" width="400"/>
 </p>
 
 # 👋 Hi, I'm Donovan Banks
