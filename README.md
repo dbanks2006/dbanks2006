@@ -1,7 +1,5 @@
-<!-- NCCU Banner -->
-<p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/6/66/North_Carolina_Central_Eagles_logo.svg/2560px-North_Carolina_Central_Eagles_logo.svg.png](https://www.early-childhood-education-degrees.com/wp-content/uploads/2018/01/NorthCarolinaCentralUniversitylogo_778-300x160.png)" alt="NCCU Logo" width="400"/>
-</p>
+<img width="300" height="160" alt="NorthCarolinaCentralUniversitylogo_778-300x160" src="https://github.com/user-attachments/assets/8b670305-11c4-4aac-a59b-4ff4eb725660" />
+
 
 # 👋 Hi, I'm Donovan Banks
 
@@ -30,9 +28,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/North_Carolina_Central_University_seal.svg/1200px-North_Carolina_Central_University_seal.svg.png" alt="NCCU Seal" width="100"/>
-</p>
 
 <!--
 **dbanks2006/dbanks2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
