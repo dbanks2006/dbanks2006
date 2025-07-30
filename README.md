@@ -19,8 +19,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: **dlorenzobanks@gmail.com** *(replace with real email)*  
-- 🔗 LinkedIn: [linkedin.com/in/dbanks2006]([https://linkedin.com](https://www.linkedin.com/in/donovan-banks-a41544319/)) *(add real link)*  
+- 📧 Email: **dlorenzobanks@gmail.com** 
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/donovan-banks-a41544319/) *(add real link)*  
 
 ---
 
